@@ -1,4 +1,3 @@
-# olympics-data-engineering-pipeline
 
 # Olympics Data Engineering Project
 
